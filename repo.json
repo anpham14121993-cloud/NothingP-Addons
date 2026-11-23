@@ -1,0 +1,16 @@
+{
+  "id": "nothingp-github-addons",
+  "name": "Nothing-P • Kho Trình cắm GitHub",
+  "description": "Các nguồn phim Stremio chạy cục bộ trên thiết bị qua Local Proxy",
+  "addons": [
+    {
+      "id": "community.fiml4k.local",
+      "name": "Nothing-P • Fiml4K",
+      "version": "1.0.3",
+      "description": "Phim 4K & Phim Bộ Vietsub (tải từ GitHub, chạy bằng IP máy qua Local Proxy)",
+      "types": ["movie", "series"],
+      "entry": "addons/fiml4k.js",
+      "icon": "https://fiml4k.fun/favicon.ico"
+    }
+  ]
+}
